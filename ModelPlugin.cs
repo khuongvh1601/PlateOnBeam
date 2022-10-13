@@ -1,3 +1,5 @@
+using System.Threading.Tasks.Sources;
+using System.Runtime.InteropServices;
 using KRegedit;
 using System;
 using System.Collections;
@@ -11,6 +13,7 @@ using Tekla.Structures.Model.Operations;
 using Tekla.Structures.Model.UI;
 using Tekla.Structures.Plugins;
 using K_BoltBrace;
+
 
 
 namespace K_PlateOnAngleBeam
@@ -192,9 +195,6 @@ namespace K_PlateOnAngleBeam
 
 
                 GetValuesFromDialog();
-
-
-
                 WorkPlaneHandler wph = Model.GetWorkPlaneHandler();
                 TransformationPlane modelplane = wph.GetCurrentTransformationPlane();
 
@@ -293,8 +293,7 @@ namespace K_PlateOnAngleBeam
 
                 Model.CommitChanges();
 
-                Beam be = new Beam();
-                
+               
 
                 //Dataget.component = C as Component;
                 //kh.addControlpoint(p1, 1);
