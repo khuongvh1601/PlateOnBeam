@@ -1,0 +1,11 @@
+C:\ProgramData\Trimble\Tekla Structures\2021.0\Environments\common\extensions\K_tool\K_PlateOnAngleBeam.dll
+C:\ProgramData\Trimble\Tekla Structures\2021.0\Environments\common\extensions\K_tool\K_PlateOnAngleBeam.pdb
+E:\Tekla\TeklaAPI\Projects\K_Tower\K_PlateOnAngleBeam\obj\Release\K_PlateOnAngleBeam.csproj.AssemblyReference.cache
+E:\Tekla\TeklaAPI\Projects\K_Tower\K_PlateOnAngleBeam\obj\Release\K_PlateOnAngleBeam.MainForm.resources
+E:\Tekla\TeklaAPI\Projects\K_Tower\K_PlateOnAngleBeam\obj\Release\K_PlateOnAngleBeam.Properties.Resources.resources
+E:\Tekla\TeklaAPI\Projects\K_Tower\K_PlateOnAngleBeam\obj\Release\K_PlateOnAngleBeam.csproj.GenerateResource.cache
+E:\Tekla\TeklaAPI\Projects\K_Tower\K_PlateOnAngleBeam\obj\Release\K_PlateOnAngleBeam.csproj.CoreCompileInputs.cache
+E:\Tekla\TeklaAPI\Projects\K_Tower\K_PlateOnAngleBeam\obj\Release\K_PlateOnAngleBeam.csproj.CopyComplete
+E:\Tekla\TeklaAPI\Projects\K_Tower\K_PlateOnAngleBeam\obj\Release\K_PlateOnAngleBeam.dll
+E:\Tekla\TeklaAPI\Projects\K_Tower\K_PlateOnAngleBeam\obj\Release\K_PlateOnAngleBeam.pdb
+E:\Tekla\TeklaAPI\Projects\K_Tower\K_PlateOnAngleBeam\obj\Release\K_PlateOnAngleBeam.FormBolt.resources
